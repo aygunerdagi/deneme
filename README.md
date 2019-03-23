@@ -1,0 +1,2 @@
+# deneme
+laravel projemizin denemesi
